@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B-Penchev
-- 👀 I’m interested in Software Testing and Automation.
+- 👀 I’m interested in Software Testing and Software Testing Automation.
 - 🌱 I’m currently learning QA Fundamentals.
 
 
