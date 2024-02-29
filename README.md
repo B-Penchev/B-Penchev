@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
 - 👋 Hi, I’m @B-Penchev
 - 👀 I’m interested in Software Testing and Software Testing Automation.
 - 🌱 I’m currently learning QA Fundamentals and Manual Testing.
