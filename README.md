@@ -1,4 +1,8 @@
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,docker,vim" />
+  </a>
+</p>
 
 - 👋 Hi, I’m @B-Penchev
 - 👀 I’m interested in Software Testing and Software Testing Automation.
