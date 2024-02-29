@@ -6,7 +6,8 @@
 
 - 👋 Hi, I’m @B-Penchev
 - 👀 I’m interested in Software Testing and Software Testing Automation.
-- 🌱 I’m currently learning QA Fundamentals and Manual Testing.
+- 🌱 I’ve learned QA Fundamentals and Manual Testing.
+- 🌱 I’m currently learning Programming Fundamentals and Unit Testing with C#.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 <!---
