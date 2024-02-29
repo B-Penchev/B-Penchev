@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @B-Penchev <a href=”https://www.linkedin.com/in/boris-penchev-28667369/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+- 👋 Hi, I’m @B-Penchev
+- <a href=”https://www.linkedin.com/in/boris-penchev-28667369/"><img align=”left” src=”https://raw.githubusercontent.com/b-penchev/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 - 👀 I’m interested in Software Testing and Software Testing Automation.
 - 🌱 I’m currently learning QA Fundamentals and Manual Testing.
 
